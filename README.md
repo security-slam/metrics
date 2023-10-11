@@ -1,2 +1,3 @@
 # metrics
-Goals for each security slam along with resources to streamline each effort
+
+This repository contains the metrics and goals for each security slam event, along with resources to streamline each effort.
