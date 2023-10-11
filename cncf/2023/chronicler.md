@@ -6,7 +6,8 @@ Goals:
 
 - [ ] Ensure that your project's SBOM is accurate and up to date with the lastest release
 - [ ] Ensure that your project's dependency consumption policy is clearly written and up to date
-- [ ] Ensure that the locations of both are documented in your [SECURITY-INSIGHTS.yml](https://github.com/ossf/security-insights-spec/blob/main/specification.yml)
+- [ ] Ensure that your project's end user provenance consumption documentation follows [TAG Security guidelines](https://github.com/cncf/tag-security/tree/main/provenance-implementation) and is up to date
+- [ ] Ensure that the locations of each are documented in your [SECURITY-INSIGHTS.yml](https://github.com/ossf/security-insights-spec/blob/main/specification.yml)
 
 -----
 
