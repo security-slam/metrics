@@ -1,4 +1,4 @@
-# Official Linux Foundation™ Training Courses
+# Official Linux Foundation Training Courses
 
 The following free courses were developed by the Linux Foundation specifically to assist in the security hygiene improvements related to the Security Slam!
 
