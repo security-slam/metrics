@@ -15,6 +15,7 @@ _Roadmap Note: The quickstart below will need to be made ecosystem-agnostic if/w
     - Read more in the [CLOMonitor Guide](clomonitor-guide.md).
 1. Look for a GitHub Issue or Discussion thread in your project repo(s). If you don't see one, you can create one to start the conversation.
     - CLOMonitor has a helpful button for each repository that will create a checklist-style markdown list for you to put in a GitHub Issue. Look for the hamburger menu in the right of each repository section on your project page in the CLOMonitor UI.
+    - **Important addition:** Projects need to be [registered by a maintainer](https://community.cncf.io/events/details/cncf-cloud-native-security-slam-presents-2023-security-slam-maintainer-sign-up/) in order to qualify for recognitions and prizes! If you're not a maintainer, reach out to one to make sure your project gets credit for this work!
 1. As appropriate, create sub-issues with the `help wanted` label to help contributors quickly find ways to contribute to the Slam.
     - If your project community and/or maintainer base is small, consider asking for help on the **#security-slam** [Slack channel](https://slack.cncf.io).
 1. If you get stuck while working on an issue, also consider asking for help on the Security Slam Slack channel or look to see if your question has already been answered. There are SMEs from Google, Sonatype, and across the CNCF community who have already expressed a desire to help in Slack!
