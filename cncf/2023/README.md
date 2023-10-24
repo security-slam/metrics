@@ -1,6 +1,6 @@
 # Cloud Native Security Slam 2023
 
-The Cloud Native Security Slam is a 30-day challenge designed to help creators and users of CNCF projects improve their software supply chain security at scale. Participants will have access to the Security Slam Library, which will include a curated list of topically organized articles and videos to help improve security posture. Success metrics and participation awards will be announced at the kickoff webinar, so be sure to sign up and join us for this exciting event!
+The [Cloud Native Security Slam](https://community.cncf.io/cloud-native-security-slam/) is a 30-day challenge designed to help creators and users of CNCF projects improve their software supply chain security at scale. Participants will have access to the Security Slam Library, which will include a curated list of topically organized articles and videos to help improve security posture. Success metrics and participation awards will be announced at the kickoff webinar, so be sure to sign up and join us for this exciting event!
 
 Security Slam will culminate in an on-site award ceremony, where participants will be recognized and celebrated for their achievements. If you want to improve your software supply chain security and connect with other members of the CNCF community, the Security Slam is an event you won't want to miss!
 
